@@ -1,5 +1,4 @@
-[
-    {
+brainquotes = [{
     "quote" : "Don't cry because it's over, smile because it happened.",
     "author" : "Dr. Seuss",
     "bio" :"Theodor Seuss Geisel was an American writer, cartoonist, animator, book publisher, and artist best known for authoring children's books under the pen name Dr. Seuss."
@@ -38,5 +37,4 @@
       "quote": "We accept the love we think we deserve.",
      "author": " Stephen Chbosky",
       "bio":"Stephen Chbosky is an American novelist, screenwriter, and film director."
-    }
-]
+    }]
